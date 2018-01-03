@@ -1,4 +1,4 @@
-var playlist = {TowerOfPower: "Funk City"}; // creates an object
+learn tesletvar playlist = {TowerOfPower: "Funk City"}; // creates an object
 
 function updatePlaylist(playlist, artist, song) {
   playlist[artist] = song;
